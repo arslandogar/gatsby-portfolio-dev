@@ -14,7 +14,7 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #38d39f;
+  background: #009688;
   font-family: 'Source Code Pro';
 
   &:focus {

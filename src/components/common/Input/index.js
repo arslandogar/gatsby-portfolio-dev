@@ -4,7 +4,7 @@ import '../../../assets/fonts.css';
 export const Input = styled.input`
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid #38d39f;
+  border: 2px solid #009688;
   padding: 0.8rem 1rem;
   border-radius: 7px;
   margin-bottom: 0.5rem;

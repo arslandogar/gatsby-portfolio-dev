@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import overlayIllustration from 'assets/illustrations/overlay.svg';
+import '../../../assets/fonts.css';
 
 export const Wrapper = styled.div`
   padding-bottom: 4rem;
@@ -32,6 +33,7 @@ export const Details = styled.div`
     margin-bottom: 2rem;
     font-size: 36pt;
     color: #212121;
+    font-family: 'Satisfy';
 
     @media (max-width: 680px) {
       font-size: 30pt;
@@ -43,6 +45,7 @@ export const Details = styled.div`
     font-size: 32pt;
     font-weight: normal;
     color: #707070;
+    font-family: 'Satisfy';
 
     @media (max-width: 680px) {
       font-size: 26pt;

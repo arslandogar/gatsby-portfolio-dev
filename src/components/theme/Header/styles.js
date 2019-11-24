@@ -1,8 +1,10 @@
 import styled from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Wrapper = styled.div`
   background: transparent;
   width: 100%;
+  font-family: 'Source Code Pro';
 `;
 
 export const Overlay = styled.div`

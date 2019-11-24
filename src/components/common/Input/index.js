@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Input = styled.input`
   width: 100%;
@@ -8,11 +9,12 @@ export const Input = styled.input`
   border-radius: 7px;
   margin-bottom: 0.5rem;
   transition: 0.3s;
+  font-family: 'Source Code Pro';
 
   ${({ error }) =>
     error &&
     `
-		border-color: #ff4136;
+    border-color: #ff4136;
 	`}
 
   &::placeholder {

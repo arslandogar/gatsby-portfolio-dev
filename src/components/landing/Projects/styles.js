@@ -1,7 +1,9 @@
 import styled from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Wrapper = styled.div`
   padding: 2rem 0;
+  font-family: 'Source Code Pro';
 `;
 
 export const Grid = styled.div`

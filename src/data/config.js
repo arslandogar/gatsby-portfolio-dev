@@ -2,12 +2,12 @@ module.exports = {
   defaultTitle: 'Arslan Dogar',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Arslan Dogar',
-  url: 'https://portfolio.smakosh.com',
+  url: 'https://arslandogar.netlify.com/',
   legalName: 'Arslan',
   defaultDescription: 'I’m Arslan and I’m a fullstack javascript developer!',
   socialLinks: {
-    twitter: 'http://www.twitter.com/smakosh',
-    github: 'https://github.com/smakosh',
+    twitter: 'http://www.twitter.com/arslanndogar',
+    github: 'https://github.com/arslandogar',
     linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
     instagram: 'https://instagram.com/smakosh19',
     youtube: 'https://www.youtube.com/user/smakoshthegamer',
@@ -18,7 +18,7 @@ module.exports = {
   backgroundColor: '#6b63ff',
   social: {
     facebook: 'appId',
-    twitter: '@smakosh',
+    twitter: '@arslanndogar',
   },
   address: {
     city: 'City',
@@ -30,6 +30,6 @@ module.exports = {
     email: 'email',
     phone: 'phone number',
   },
-  foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  foundingDate: '2019',
+  recaptcha_key: '6LdcXsQUAAAAAEm0YCSQAo_6KtYhNCRpKz2wjQ5L',
 };

@@ -1,8 +1,9 @@
 import { createGlobalStyle } from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Global = createGlobalStyle`
   html {
-    font-family: 'Roboto', Helvetica, sans-serif;
+    font-family: 'Source Code Pro', 'Roboto', Helvetica, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 

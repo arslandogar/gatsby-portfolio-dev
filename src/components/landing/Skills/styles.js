@@ -1,11 +1,13 @@
 import styled from 'styled-components';
 import detailsIllustration from 'assets/illustrations/details.svg';
+import '../../../assets/fonts.css';
 
 export const Wrapper = styled.div`
   background-image: url(${detailsIllustration});
   background-size: contain;
   background-position: left top;
   background-repeat: no-repeat;
+  font-family: 'Source Code Pro';
 `;
 
 export const SkillsWrapper = styled.div`

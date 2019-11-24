@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Wrapper = styled.div`
   padding: 28rem 0 4rem 0;
@@ -6,6 +7,7 @@ export const Wrapper = styled.div`
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
+  font-family: 'Source Code Pro';
 
   @media (max-width: 1960px) {
     padding: 14rem 0 4rem;
@@ -35,10 +37,10 @@ export const Links = styled.div`
       margin: 0;
     }
 
-    &:first-child,
-    &:last-child {
-      margin: 0;
-    }
+    // &:first-child,
+    // &:last-child {
+    //   margin: 0;
+    // }
   }
 `;
 

@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import '../../../assets/fonts.css';
 
 export const Button = styled.button`
   cursor: pointer;
@@ -14,6 +15,7 @@ export const Button = styled.button`
   user-select: none;
   color: #fff;
   background: #38d39f;
+  font-family: 'Source Code Pro';
 
   &:focus {
     outline: none;

@@ -17,7 +17,7 @@ export const Skills = () => (
           standard dummy.
         </p>
         <Button as={AnchorLink} href="#contact">
-          Hire me
+          Get in touch
         </Button>
       </Details>
     </SkillsWrapper>

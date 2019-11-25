@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 import '../../../assets/fonts.css';
+import overlayFooter from '../../../assets/illustrations/footer.svg';
 
 export const Wrapper = styled.div`
   padding: 28rem 0 4rem 0;
-  background-image: url('../illustrations/footer.svg');
+  background-image: url(${overlayFooter});
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
